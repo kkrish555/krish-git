@@ -6,7 +6,7 @@ class Emp:
 
     def display(self):
         print("\n Name {} of employee,\n employee ID is {}, \n Salary of employee is {}".format(self.name,self.id,self.salary))
-
+#Program to display staticmethods
 class Myclass:
     @staticmethod
     def mymethod(e):
